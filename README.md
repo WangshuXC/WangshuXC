@@ -1,4 +1,4 @@
-<img align="right" width="200" src="">
+<img align="right" width="200" src="blue_archieve.jpg">
 
 ### Hello, I'm WangshuXC 👋
 
