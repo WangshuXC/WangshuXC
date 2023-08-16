@@ -19,6 +19,7 @@
 
 #### 🖥️ My workspace specs
 ![Lenovo](https://img.shields.io/badge/lenovo_xiaoxin_air14plus-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
+
 ![INTEL_12100F](https://img.shields.io/badge/INTEL_12100F-blue?style=for-the-badge&logo=intel&logoColor=white)
 ![AMD_5600xt](https://img.shields.io/badge/AMD_5600xt-red?style=for-the-badge&logo=amd&logoColor=white)
 
