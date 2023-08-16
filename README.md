@@ -6,9 +6,9 @@
 
 
 #### ⌨️ Programming
-![C++](https://img.shields.io/badge/cpp-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/c_plusplus-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-green?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### 📋 Markup
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -18,8 +18,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 🖥️ My workspace specs
-![Lenovo](https://img.shields.io/badge/lenovo_xiaoxin_air14plus-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
+![Lenovo](https://img.shields.io/badge/lenovo_xiaoxin_air14plus-red?style=for-the-badge&logo=lenovo&logoColor=white)
 
 ![INTEL_12100F](https://img.shields.io/badge/INTEL_12100F-blue?style=for-the-badge&logo=intel&logoColor=white)
-![AMD_5600xt](https://img.shields.io/badge/AMD_5600xt-red?style=for-the-badge&logo=amd&logoColor=white)
+![AMD_5600xt](https://img.shields.io/badge/AMD_5600xt-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
